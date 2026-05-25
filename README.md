@@ -20,7 +20,7 @@ Tenho grande interesse em automação, buscando constantemente formas de otimiza
 
 🔹 Dashboard de Vendas com Streamlit  
 Análise de desempenho de vendas com KPIs, filtros e ranking de vendedores.
-![Dashboard]()
+![Dashboard](https://github.com/DiegoFrancoGiusti/DiegoFrancoGiusti/blob/main/BannerLikedin2.png)
 
 ## 🛠️ Ferramentas e Tecnologias
 <div>
